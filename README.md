@@ -4,7 +4,7 @@
 - 🔭 I’m currently working @ Node JS
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Join a decent IT company where I get can greate opportunity to learn more. 
+- 🥅 2021 Goals: Join a decent IT company where I can get great opportunity to learn more. 
 - ⚡ Fun fact: I am doing Meditation and Running daily for the last two years..
 
 ### Connect with me:
