@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Join a decent IT company where I can get great opportunity to learn more. 
-- ⚡ Fun fact: I am doing Meditation and Running daily for the last two years..
+- ⚡ Fun fact: I left Mechanical Engineering in my 2nd Year then again start a career in computer science so N E V E R - G I V E - U P 💪.
 
 ### Connect with me:
 [<img align="left" alt="thatguyfromindore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
