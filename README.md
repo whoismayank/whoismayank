@@ -1,8 +1,9 @@
 ### Hi there, I'm Mahendra 👋
 
 ## I'm a Full-stack Software Developer and Javascript Enthusiast!
+- 🦸‍♂️ Certified shopify expert
 - 🔭 I’m currently working @ Node JS
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Join a decent IT company where I can get great opportunity to learn more. 
 - ⚡ At last: N E V E R - G I V E - U P 💪.
