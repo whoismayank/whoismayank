@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working as a [Senior software engineer at Persistent Systems](https://www.persistent.com/)
+- 🔭 I’m currently working as a [Lead software engineer at Persistent Systems](https://www.persistent.com/)
 
 - 🌱 I’m currently learning **DevOPS**
 
