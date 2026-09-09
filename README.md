@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working as a Software Engineer at [Impetus](https://www.impetus.com/)
+- 🔭 I’m currently working as a Module Lead Software Engineer at [Impetus](https://www.impetus.com/)
 
-- 💼 7+ years of experience specializing in web development
+- 💼 8+ years of experience in web development — from Trainee Software Engineer to Module Lead, previously at Persistent Systems and TechInfini Solutions
 
 - 🌱 I’m currently learning **DevOPS**
 
