@@ -5,7 +5,9 @@
 
 
 
-- 🔭 I’m currently working as a [Lead software engineer at Persistent Systems](https://www.persistent.com/)
+- 🔭 I’m currently working as a Software Engineer at [Impetus](https://www.impetus.com/)
+
+- 💼 7+ years of experience specializing in web development
 
 - 🌱 I’m currently learning **DevOPS**
 
