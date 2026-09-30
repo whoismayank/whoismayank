@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="484" viewBox="0 0 1200 484" role="img" aria-labelledby="title desc">
   <title id="title">Mahendra Choudhary</title>
-  <desc id="desc">Full-stack software developer and JavaScript enthusiast. Module Lead Software Engineer at Impetus with 8+ years in web development.</desc>
+  <desc id="desc">Senior full-stack engineer (Angular, React, Node.js) in Indore, India. I build enterprise platforms that hold up under real traffic. Module Lead Software Engineer at Impetus Technologies, 7+ years, open to senior and lead full-stack roles.</desc>
   <style>
     .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
     .sans { font-family: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
@@ -15,12 +15,12 @@
   <rect width="1200" height="484" rx="16" fill="#0e110f"/>
 
   <text x="56" y="56" class="mono muted" font-size="14">~/whoismayank</text>
-  <text x="1144" y="56" class="mono muted" font-size="14" text-anchor="end">github.com/whoismayank</text>
+  <text x="1144" y="56" class="mono muted" font-size="14" text-anchor="end">mahendrachoudhary.in</text>
 
   <text x="56" y="124" class="mono" font-size="17" fill="#b6f36b">$ whoami</text>
   <text x="56" y="204" class="sans" font-size="76" font-weight="700" letter-spacing="-2" fill="#f2f5ee">Mahendra Choudhary</text>
-  <text x="56" y="252" class="mono" font-size="19" fill="#b9c2b2">Full-stack software developer &amp; JavaScript enthusiast.</text>
-  <text x="56" y="282" class="mono" font-size="19" fill="#b9c2b2">Module Lead Software Engineer at Impetus · 8+ years on the web<tspan fill="#b6f36b" class="blink">▌</tspan></text>
+  <text x="56" y="252" class="mono" font-size="19" fill="#b9c2b2">Senior full-stack engineer · Angular, React, Node.js · Indore</text>
+  <text x="56" y="282" class="mono" font-size="19" fill="#b9c2b2">I build enterprise platforms that hold up under real traffic.<tspan fill="#b6f36b" class="blink">▌</tspan></text>
 
   <!-- fact strip -->
   <rect x="56" y="336" width="1088" height="108" rx="8" fill="#262d24"/>
@@ -32,12 +32,12 @@
   <text x="81" y="375" class="mono label">NOW</text>
   <text x="81" y="410" class="mono value">Module Lead @ Impetus</text>
 
-  <text x="353" y="375" class="mono label">LEARNING</text>
-  <text x="353" y="410" class="mono value">DevOps</text>
+  <text x="353" y="375" class="mono label">BUILDING</text>
+  <text x="353" y="410" class="mono value">D&amp;B SMB Platform</text>
 
-  <text x="625" y="375" class="mono label">LOOKING FOR HELP</text>
-  <text x="625" y="410" class="mono value">Docker, Kubernetes</text>
+  <text x="625" y="375" class="mono label">EXPERIENCE</text>
+  <text x="625" y="410" class="mono value">7+ years, since 2018</text>
 
-  <text x="897" y="375" class="mono label">ASK ME ABOUT</text>
-  <text x="897" y="410" class="mono value">JavaScript, Shopify, Node</text>
+  <text x="897" y="375" class="mono label">OPEN TO</text>
+  <text x="897" y="410" class="mono value">Senior &amp; lead roles</text>
 </svg>
