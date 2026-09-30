@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="544" viewBox="0 0 1200 544" role="img" aria-labelledby="title desc">
+  <title id="title">Mahendra Choudhary</title>
+  <desc id="desc">I build the web, end to end, in JavaScript. Module Lead Software Engineer at Impetus with 8+ years in web development. Learning DevOps; could use help with Docker and Kubernetes; ask me about JavaScript, Shopify and Node.js.</desc>
+  <style>
+    .serif { font-family: Fraunces, Georgia, Cambria, 'Times New Roman', serif; }
+    .sans { font-family: 'IBM Plex Sans', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .ink { fill: #1c1a16; }
+    .muted { fill: #5c574d; }
+    .accent { fill: #b4410f; }
+    .label { font-size: 12px; letter-spacing: 1.6px; }
+  </style>
+
+  <rect width="1200" height="544" rx="16" fill="#f6f2ea"/>
+
+  <!-- masthead -->
+  <text x="64" y="64" class="serif ink" font-size="22" font-weight="600">M. Choudhary</text>
+  <text x="1136" y="64" class="sans muted" font-size="14" text-anchor="end">Full-stack developer · 8+ years</text>
+  <rect x="64" y="82" width="1072" height="1.5" fill="#1c1a16"/>
+
+  <!-- headline -->
+  <text x="64" y="186" class="serif ink" font-size="68" letter-spacing="-1.5">I build the web, end to end,</text>
+  <text x="64" y="262" class="serif ink" font-size="68" letter-spacing="-1.5">in <tspan class="accent" font-style="italic">JavaScript.</tspan></text>
+
+  <text x="64" y="320" class="sans" font-size="18" fill="#3d3931">Hi, I'm Mahendra — Module Lead Software Engineer at Impetus, with 8+ years in web development.</text>
+
+  <!-- right now -->
+  <rect x="64" y="368" width="1072" height="1" fill="#d6cfc0"/>
+  <text x="64" y="410" class="sans muted label">LEARNING</text>
+  <text x="64" y="452" class="serif ink" font-size="30">DevOps</text>
+
+  <text x="424" y="410" class="sans muted label">COULD USE HELP WITH</text>
+  <text x="424" y="452" class="serif ink" font-size="30">Docker &amp; Kubernetes</text>
+
+  <text x="784" y="410" class="sans muted label">ASK ME ABOUT</text>
+  <text x="784" y="452" class="serif ink" font-size="30">JavaScript, Shopify, Node</text>
+
+  <rect x="64" y="496" width="1072" height="1.5" fill="#1c1a16"/>
+</svg>
