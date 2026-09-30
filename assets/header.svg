@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="484" viewBox="0 0 1200 484" role="img" aria-labelledby="title desc">
+  <title id="title">Mahendra Choudhary</title>
+  <desc id="desc">Full-stack software developer and JavaScript enthusiast. Module Lead Software Engineer at Impetus with 8+ years in web development.</desc>
+  <style>
+    .mono { font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; }
+    .sans { font-family: 'Space Grotesk', system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .muted { fill: #8a9483; }
+    .label { font-size: 12px; letter-spacing: 1.2px; fill: #8a9483; }
+    .value { font-size: 16px; fill: #f2f5ee; }
+    .blink { animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .blink { animation: none; } }
+  </style>
+
+  <rect width="1200" height="484" rx="16" fill="#0e110f"/>
+
+  <text x="56" y="56" class="mono muted" font-size="14">~/whoismayank</text>
+  <text x="1144" y="56" class="mono muted" font-size="14" text-anchor="end">github.com/whoismayank</text>
+
+  <text x="56" y="124" class="mono" font-size="17" fill="#b6f36b">$ whoami</text>
+  <text x="56" y="204" class="sans" font-size="76" font-weight="700" letter-spacing="-2" fill="#f2f5ee">Mahendra Choudhary</text>
+  <text x="56" y="252" class="mono" font-size="19" fill="#b9c2b2">Full-stack software developer &amp; JavaScript enthusiast.</text>
+  <text x="56" y="282" class="mono" font-size="19" fill="#b9c2b2">Module Lead Software Engineer at Impetus · 8+ years on the web<tspan fill="#b6f36b" class="blink">▌</tspan></text>
+
+  <!-- fact strip -->
+  <rect x="56" y="336" width="1088" height="108" rx="8" fill="#262d24"/>
+  <rect x="57" y="337" width="271" height="106" rx="7" fill="#131713"/>
+  <rect x="329" y="337" width="271" height="106" fill="#131713"/>
+  <rect x="601" y="337" width="271" height="106" fill="#131713"/>
+  <rect x="873" y="337" width="270" height="106" rx="7" fill="#131713"/>
+
+  <text x="81" y="375" class="mono label">NOW</text>
+  <text x="81" y="410" class="mono value">Module Lead @ Impetus</text>
+
+  <text x="353" y="375" class="mono label">LEARNING</text>
+  <text x="353" y="410" class="mono value">DevOps</text>
+
+  <text x="625" y="375" class="mono label">LOOKING FOR HELP</text>
+  <text x="625" y="410" class="mono value">Docker, Kubernetes</text>
+
+  <text x="897" y="375" class="mono label">ASK ME ABOUT</text>
+  <text x="897" y="410" class="mono value">JavaScript, Shopify, Node</text>
+</svg>
